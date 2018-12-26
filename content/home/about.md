@@ -10,29 +10,19 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Nonparametric Estimation",
+    "Spatial Statistics",
+    "Statistical Machine learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Pure and Applied Mathematics"
+  institution = "Tsinghua University, Beijing, China"
+  year = Expected in July 2019
  
 +++
 
 # Biography
 
-Miaoshiqi LIU is an undergraduate student majoring in Mathematical Sciences at Tsinghua University. She is expected to graduate in July 2019. As for a next life step, she is determined to pursue further study in Statistics. Her research interests include Nonparametric Estimation, Spatial Statistics and Statistical Machine learning. 
+Miaoshiqi LIU is an undergraduate student majoring in Mathematical Sciences at Tsinghua University. She is expected to graduate in July 2019. As for a next life step, she is determined to pursue further study in Statistics. Her research interests include Nonparametric Estimation, Spatial Statistics and Statistical Machine learning. She also has diverse interests in inter-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science. 
