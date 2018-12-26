@@ -10,15 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Intelligent Transportation",
-    "Optimization Method",
-    "Artificial Intelligence",
+    "Nonparametric Estimation",
+    "Spatial Statistics",
+    "Statistical Machine learning",
   ]
 
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "BS in Automation"
+  course = "BS in Pure and Applied Mathematics"
   institution = "Tsinghua University"
   year = 2015
 
@@ -26,9 +26,9 @@ weight = 5
   course = "Summer Research Intern"
   institution = "University of Michigan"
   year = 2018
- 
+
 +++
 
 # Biography
 
-Haowei Sun is an undergraduate of automation at Tsinghua University. His research interests include intelligent transportation, optimization method and deep reinforcement learning.
+Miaoshiqi LIU is an undergraduate student majoring in Pure and Applied Mathematics at Tsinghua University. She is expected to graduate in July 2019. As for a next life step, she is determined to pursue further study in Statistics. Her research interests include Nonparametric Estimation, Spatial Statistics and Statistical Machine learning. She also has diverse interests in multi-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science.
