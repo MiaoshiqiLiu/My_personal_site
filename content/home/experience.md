@@ -37,7 +37,7 @@ date_format = "January 2006"
   company = "University of Michigan"
   company_url = ""
   location = "Michigan"
-  date_start = "2018-07-31"
+  date_start = "2018-07-02"
   date_end = "2018-09-14"
   description = """
   Develop the acceleration method in autonomous algorithm detection
