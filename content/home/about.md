@@ -25,4 +25,4 @@ weight = 5
 
 # Biography
 
-Miaoshiqi LIU is an undergraduate student majoring in Mathematical Sciences at Tsinghua University. She is expected to graduate in July 2019. As for a next life step, she is determined to pursue further study in Statistics. Her research interests include Nonparametric Estimation, Spatial Statistics and Statistical Machine learning. She also has diverse interests in inter-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science. 
+Miaoshiqi LIU is an undergraduate student majoring in Pure and Applied Mathematics at Tsinghua University. She is expected to graduate in July 2019. As for a next life step, she is determined to pursue further study in Statistics. Her research interests include Nonparametric Estimation, Spatial Statistics and Statistical Machine learning. She also has diverse interests in inter-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science.
