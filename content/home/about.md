@@ -10,19 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Nonparametric Estimation",
-    "Spatial Statistics",
-    "Statistical Machine learning"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BSc in Pure and Applied Mathematics"
-  institution = "Tsinghua University, Beijing, China"
-  year = Expected in July 2019
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
+[[education.courses]]
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
+
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
+ 
 +++
 
 # Biography
 
-Miaoshiqi LIU is an undergraduate student majoring in Pure and Applied Mathematics at Tsinghua University. She is expected to graduate in July 2019. As for a next life step, she is determined to pursue further study in Statistics. Her research interests include Nonparametric Estimation, Spatial Statistics and Statistical Machine learning. She also has diverse interests in multi-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science.
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
