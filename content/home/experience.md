@@ -19,8 +19,8 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research"
-  company = "Center for Statistical Research, Tsinghua University"
+  title = "Intern"
+  company = "DiDi Research"
   company_url = ""
   location = "Beijing"
   date_start = "2018-10-08"
@@ -43,7 +43,7 @@ date_format = "January 2006"
   Develop the acceleration method in autonomous algorithm detection
 
   * Method: Value region searching method, Modified reinforcement learning method
-
+	
   * Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
 
   """
