@@ -12,3 +12,4 @@ weight = 65
 
 +++
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+use tags here as a test
