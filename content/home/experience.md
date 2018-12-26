@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 15
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,27 +19,48 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Intern"
+  company = "DiDi Research"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing"
+  date_start = "2018-10-08"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  Mainly Contribute to the Intelligent Intersection Project
 
+  * Receiving and Decoding Vedio Data
+  * Transfer Pixel Data into GPS Data
+  * Merge Object Detection Information
+"""
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Summer Research Intern"
+  company = "University of Michigan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Michigan"
+  date_start = "2018-07-31"
+  date_end = "2018-09-14"
+  description = """
+  Develop the acceleration method in autonomous algorithm detection
 
+  * Method: Value region searching method, Modified reinforcement learning method
+	
+  * Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
+
+  """
+[[experience]]
+  title = "Researcher"
+  company = "Tsinghua University"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2017-06-01"
+  date_end = "2018-07-01"
+  description = """
+Develop platoon control method providing stability and calculation efficiency
+
+* Method: Discrete optimization and MPC method
+*	Built the platoon control simulation environmental system
+* Implemented the platoon control method and compared the control result with H-infinity based platoon control method
+*	Contributed to a second-author paper which is submitted to TCST (IEEE Transactions on Control Systems Technology)
+
+"""
 +++
