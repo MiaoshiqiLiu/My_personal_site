@@ -268,8 +268,8 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "CV"
+  url = "#mycv"
   weight = 4
 
 
