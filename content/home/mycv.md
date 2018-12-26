@@ -2,7 +2,7 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "Curriculum Vitae"
+widget = "mycv"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -16,4 +16,3 @@ weight = 60
 +++
 
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
-what if I add some characters here
