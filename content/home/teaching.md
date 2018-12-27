@@ -15,8 +15,4 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-I do not know whether this change will work. and let's see whether the link will work.
-
 To see my CV, please click here: {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
