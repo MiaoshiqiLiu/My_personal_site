@@ -23,20 +23,21 @@ date_format = "January 2006"
   company = "Center for Statistical Science, Tsinghua University"
   company_url = ""
   location = "Beijing"
-  date_start = "2018-10"
+  date_start = "2018-10-17"
   date_end = ""
   description = """
   Association Between Exposure to Air Pollution and Mortality Regarding Certain Diseases in China
 
   * Performed Literature Review on spatial temporal data and longitudinal analysis
   * Writing thesis of varying coefficient model for gene-environment interaction
+
 """
 [[experience]]
   title = "Summer Research Intern"
-  company = "University of Michigan"
+  company = "Department of Statistics, University of Michigan"
   company_url = ""
   location = "Michigan"
-  date_start = "2018-07-31"
+  date_start = "2018-07-02"
   date_end = "2018-09-14"
   description = """
   Develop the acceleration method in autonomous algorithm detection
