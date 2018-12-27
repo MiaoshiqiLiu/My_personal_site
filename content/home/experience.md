@@ -19,18 +19,17 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Intern"
-  company = "DiDi Research"
+  title = "Research"
+  company = "Center for Statistical Science, Tsinghua University"
   company_url = ""
   location = "Beijing"
-  date_start = "2018-10-08"
+  date_start = "2018-10"
   date_end = ""
   description = """
-  Mainly Contribute to the Intelligent Intersection Project
+  Association Between Exposure to Air Pollution and Mortality Regarding Certain Diseases in China
 
-  * Receiving and Decoding Vedio Data
-  * Transfer Pixel Data into GPS Data
-  * Merge Object Detection Information
+  * Performed Literature Review on spatial temporal data and longitudinal analysis
+  * Writing thesis of varying coefficient model for gene-environment interaction
 """
 [[experience]]
   title = "Summer Research Intern"
@@ -43,7 +42,7 @@ date_format = "January 2006"
   Develop the acceleration method in autonomous algorithm detection
 
   * Method: Value region searching method, Modified reinforcement learning method
-	
+
   * Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
 
   """
