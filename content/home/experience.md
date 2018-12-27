@@ -44,11 +44,7 @@ date_format = "January 2006"
 
   * Independently established a research project investigating the association between ICU patients’ social visits and survival, an under-explored field in medical data
 
-  * Utilized SQL language to search and extract information about ICU patients’ social visits from the text data in MIMIC-III Database, mostly based on specific lexical features
-
-  * Conducted sentiment analysis on the extracted information via NLP method: one method involved distinguishing certain words and phrases as indicators of positive social visits, thus deriving a binary variable; another involved applying the existing sentiment analysis model in Python, thus obtaining a sentiment polarity score for each patient’s social visits, which is a continuous variable
-
-  * Analyzed the association between ICU patients’ social visits and survival: first explored the statistical relationship via a logistic regression model, and went further to check causal relationship using causal inference techniques, such as propensity score matching (PSM)
+  * Procedures: Information Extraction, Sentiment Analysis, Logit Regression, Causal Inference
 
   * Conclusion: According to logistic regression, positive social visits are correlated with higher in-hospital mortality, but after using PSM between the two groups, it turns out that whether the social visits are positive or not does not clearly influence the in-hospital mortality.
 
