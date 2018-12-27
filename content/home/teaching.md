@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "CV"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -17,4 +17,6 @@ weight = 60
 
 This is an example of using the *custom* widget to create your own homepage section.
 
-I do not know whether this change will work. 
+I do not know whether this change will work. and let's see whether the link will work.
+
+To see my CV, please click here: {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
