@@ -40,27 +40,31 @@ date_format = "January 2006"
   date_start = "2018-07-02"
   date_end = "2018-09-14"
   description = """
-  Develop the acceleration method in autonomous algorithm detection
+  The Association Between ICU Patients’ Social Visits and Survival
 
-  * Method: Value region searching method, Modified reinforcement learning method
+  * Independently established a research project investigating the association between ICU patients’ social visits and survival, an under-explored field in medical data
 
-  * Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
+  * Utilized SQL language to search and extract information about ICU patients’ social visits from the text data in MIMIC-III Database, mostly based on specific lexical features
+
+  * Conducted sentiment analysis on the extracted information via NLP method: one method involved distinguishing certain words and phrases as indicators of positive social visits, thus deriving a binary variable; another involved applying the existing sentiment analysis model in Python, thus obtaining a sentiment polarity score for each patient’s social visits, which is a continuous variable
+
+  * Analyzed the association between ICU patients’ social visits and survival: first explored the statistical relationship via a logistic regression model, and went further to check causal relationship using causal inference techniques, such as propensity score matching (PSM)
+
+  * Conclusion: According to logistic regression, positive social visits are correlated with higher in-hospital mortality, but after using PSM between the two groups, it turns out that whether the social visits are positive or not does not clearly influence the in-hospital mortality.
 
   """
 [[experience]]
-  title = "Researcher"
-  company = "Tsinghua University"
+  title = "Research"
+  company = "Center for Statistical Science, Tsinghua University"
   company_url = ""
   location = "Beijing"
-  date_start = "2017-06-01"
+  date_start = "2018-02-01"
   date_end = "2018-07-01"
   description = """
-Develop platoon control method providing stability and calculation efficiency
+ARCH Model
 
-* Method: Discrete optimization and MPC method
-*	Built the platoon control simulation environmental system
-* Implemented the platoon control method and compared the control result with H-infinity based platoon control method
-*	Contributed to a second-author paper which is submitted to TCST (IEEE Transactions on Control Systems Technology)
+* Participated in seminar on nonparametric estimation and functional data
+*	Conducted simulation in R to check the consistency of MLE (Maximum Likelihood Estimator) and LSE (Least Square Estimator) when determining the order of ARCH model
 
 """
 +++
