@@ -18,18 +18,21 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research"
-  company = "Center for Statistical Science, Tsinghua University"
+[[Activity]]
+  title = "Leader | Department of Publicity, Youth League"
+  company = "Department of Mathematical Sciences, Tsinghua University"
   company_url = ""
   location = "Beijing"
-  date_start = "2018-10-17"
-  date_end = ""
+  date_start = "2017-05-17"
+  date_end = "2018-05-17"
   description = """
-  Association Between Exposure to Air Pollution and Mortality Regarding Certain Diseases in China
 
-  * Performed Literature Review on spatial temporal data and longitudinal analysis
-  * Writing thesis of varying coefficient model for gene-environment interaction
+  * Designing the department uniform of 2017
+  * Designing posters of festivals and events (such as MCM/ICM)
+  * Operating the WeChat Subscription of Department of Mathematical Sciences, Tsinghua University
+  * Organizing symposiums about skills of key persons' interview
+  * Cultivating new members of Department of Publicity
+
 
 """
 [[experience]]
