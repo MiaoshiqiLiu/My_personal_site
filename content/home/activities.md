@@ -26,6 +26,7 @@ date_format = "January 2006"
   date_start = "2017-05-17"
   date_end = "2018-05-17"
   description = """
+
 Taking charge of the Department of Publicity, Youth League
 
   * Designing the department uniform of 2017
