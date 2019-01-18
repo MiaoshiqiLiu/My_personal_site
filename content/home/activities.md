@@ -18,48 +18,49 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[Activity]]
-  title = "Leader | Department of Publicity, Youth League"
-  company = "Department of Mathematical Sciences, Tsinghua University"
+[[experience]]
+  title = "Research"
+  company = "Center for Statistical Science, Tsinghua University"
   company_url = ""
   location = "Beijing"
-  date_start = "2017-05-17"
-  date_end = "2018-05-17"
-  description = """
-
-  * Designing the department uniform of 2017
-  * Designing posters of festivals and events (such as MCM/ICM)
-  * Operating the WeChat Subscription of Department of Mathematical Sciences, Tsinghua University
-  * Organizing symposiums about skills of key persons' interview
-  * Cultivating new members of Department of Publicity
-
-"""
-[[Activity]]
-  title = "Deputy Leader | Department of Organization, Youth League"
-  company = "Tsinghua University"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2017-09-02"
-  date_end = "2018-02-14"
-  description = """
-
-
-  * Participated in weekly meetings in different departments and answering their questions
-  * Reviewed work reports of different departments in Tsinghua University
-
-  """
-[[Activity]]
-  title = "Alto | Tsinghua Chorus, Artistic Association"
-  company = "Tsinghua University"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2015-09-01"
+  date_start = "2018-10-17"
   date_end = ""
   description = """
+  Association Between Exposure to Air Pollution and Mortality Regarding Certain Diseases in China
 
-* Performing in various events and concerts such as the 'New Year Concert' and 'Graduation Concert'
-*	Participating in 'University Chorus Competition in Beijing 2017', where Tsinghua Chorus won the first place
-*	Taking charge of the Alto voice part and organizing regular trainings during 2016.9 - 2017.9
+  * Performed Literature Review on spatial temporal data and longitudinal analysis
+  * Writing thesis of varying coefficient model for gene-environment interaction
+
+"""
+[[experience]]
+  title = "Summer Research Intern"
+  company = "Department of Statistics, University of Michigan"
+  company_url = ""
+  location = "Michigan"
+  date_start = "2018-07-02"
+  date_end = "2018-09-14"
+  description = """
+  The Association Between ICU Patients’ Social Visits and Survival
+
+  * Independently established a research project investigating the association between ICU patients’ social visits and survival, an under-explored field in medical data
+
+  * Procedures: Information Extraction, Sentiment Analysis, Logit Regression, Causal Inference
+
+  * Conclusion: According to logistic regression, positive social visits are correlated with higher in-hospital mortality, but after using PSM between the two groups, it turns out that whether the social visits are positive or not does not clearly influence the in-hospital mortality.
+
+  """
+[[experience]]
+  title = "Research"
+  company = "Center for Statistical Science, Tsinghua University"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2018-02-01"
+  date_end = "2018-07-01"
+  description = """
+ARCH Model
+
+* Participated in seminar on nonparametric estimation and functional data
+*	Conducted simulation in R to check the consistency of MLE (Maximum Likelihood Estimator) and LSE (Least Square Estimator) when determining the order of ARCH model
 
 """
 +++
