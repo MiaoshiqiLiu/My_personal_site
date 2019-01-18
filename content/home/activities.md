@@ -45,7 +45,7 @@ date_format = "January 2006"
 
 
   * Participated in weekly meetings in different departments and answering their questions
-  * Reviewed work reports of different departments
+  * Reviewed work reports of different departments in Tsinghua University
 
   """
 [[Activity]]
