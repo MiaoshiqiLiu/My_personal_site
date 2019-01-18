@@ -18,7 +18,7 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[Activity]]
+[[experience]]
   title = "Leader | Department of Publicity, Youth League"
   company = "Department of Mathematical Sciences, Tsinghua University"
   company_url = ""
@@ -36,34 +36,31 @@ date_format = "January 2006"
 
 """
 [[experience]]
-  title = "Summer Research Intern"
-  company = "Department of Statistics, University of Michigan"
+  title = "Deputy Leader | Department of Organization, Youth League"
+  company = "Tsinghua University"
   company_url = ""
-  location = "Michigan"
-  date_start = "2018-07-02"
-  date_end = "2018-09-14"
+  location = "Beijing"
+  date_start = "2017-09-02"
+  date_end = "2018-02-14"
   description = """
-  The Association Between ICU Patients’ Social Visits and Survival
 
-  * Independently established a research project investigating the association between ICU patients’ social visits and survival, an under-explored field in medical data
 
-  * Procedures: Information Extraction, Sentiment Analysis, Logit Regression, Causal Inference
+  * Participated in weekly meetings in different departments and answering their questions
+  * Reviewed work reports of different departments
 
-  * Conclusion: According to logistic regression, positive social visits are correlated with higher in-hospital mortality, but after using PSM between the two groups, it turns out that whether the social visits are positive or not does not clearly influence the in-hospital mortality.
 
   """
 [[experience]]
-  title = "Research"
-  company = "Center for Statistical Science, Tsinghua University"
-  company_url = ""
+  title = "Alto | Tsinghua Chorus, Artistic Association"
+  company = "Tsinghua University"
   location = "Beijing"
-  date_start = "2018-02-01"
-  date_end = "2018-07-01"
+  date_start = "2015-09-01"
+  date_end = ""
   description = """
-ARCH Model
 
-* Participated in seminar on nonparametric estimation and functional data
-*	Conducted simulation in R to check the consistency of MLE (Maximum Likelihood Estimator) and LSE (Least Square Estimator) when determining the order of ARCH model
+  * Performing in various events and concerts such as the 'New Year Concert' and 'Graduation Concert'
+  *	Participating in 'University Chorus Competition in Beijing 2017', where Tsinghua Chorus won the first place
+  *	Taking charge of the Alto voice part and organizing regular trainings during 2016.9 - 2017.9
 
 """
 +++
