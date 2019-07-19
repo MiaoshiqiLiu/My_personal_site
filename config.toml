@@ -68,8 +68,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "lmsq15@mails.tsingua.edu.cn"
-  address = "Building 9, Room 410B, Tsinghua University, Beijing, China"
+  email = "miaoshiqiliu@gmail.com"
+  address = "5 St Joseph St. Toronto, ON M4Y 0B6"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "86-130-5135-9826"
   #skype = "echo123"
