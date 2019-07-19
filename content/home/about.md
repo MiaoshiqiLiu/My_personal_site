@@ -31,7 +31,7 @@ weight = 5
   [[education.courses]]
   course = "Ph.D. candidate in the Department of Statistical Sciences"
   institution = "the University of Toronto"
-  year = 2018
+  year = 2019
 
 +++
 
