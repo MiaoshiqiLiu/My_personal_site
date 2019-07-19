@@ -29,7 +29,7 @@ date_format = "January 2006"
   Exploring Varying Coefficient Model for Gene-Environment Interaction
 
   * Performed Literature Review on varying coefficient model, including the parameter estimation methods and hypothesis testing approaches
-   * Performed Literature Review on gene-environment interaction, summarizing the significance of this terminology
+  * Performed Literature Review on gene-environment interaction, summarizing the significance of this terminology
   * Conducted simulation to assess different estimation methods of varying coefficient model, and compared goodness-of-fit between varying coefficient model, simple linear model and linear model with interaction 
   * Completed thesis of varying coefficient model for gene-environment interaction
 
