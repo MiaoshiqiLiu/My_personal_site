@@ -10,26 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+  	"Mathematical Statistics",
     "Nonparametric Estimation",
     "Spatial Statistics",
-    "Statistical Machine learning",
-    "Biostatistics"
+    "Statistical Machine learning"
   ]
 
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "BS in Pure and Applied Mathematics"
-  institution = "Tsinghua University"
+  course = "B.S. in Pure and Applied Mathematics"
+  institution = "Tsinghua University, Beijing, China"
   year = 2015
 
 [[education.courses]]
   course = "Summer Research Intern"
-  institution = "University of Michigan"
+  institution = "the University of Michigan, Ann Arbor"
+  year = 2018
+  
+  [[education.courses]]
+  course = "Ph.D. candidate in the Department of Statistical Sciences"
+  institution = "the University of Toronto"
   year = 2018
 
 +++
 
 # Biography
 
-Miaoshiqi LIU is an undergraduate student majoring in Pure and Applied Mathematics at Tsinghua University. She is expected to graduate in July 2019. As for a next life step, she is determined to pursue further study in Statistics and Biostatistics. Her research interests include Nonparametric Estimation, Spatial Statistics, Statistical Machine learning and Biostatistics. She also has diverse interests in multi-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science.
+Miaoshiqi LIU is a new Ph.D. candidate in the Department of Statistical Sciences at the University of Toronto. In 2019, she earned the bachelor's degree in Tsinghua University, Beijing, China.  Her research interests include Mathematical Statistics, Nonparametric Estimation, Spatial Statistics, and Statistical Machine learning. She also has diverse interests in multi-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science.
