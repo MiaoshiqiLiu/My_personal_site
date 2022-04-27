@@ -41,6 +41,7 @@ date_format = "January 2006"
   description = """
   
   Tutorials, Office Hours and Grading
+  
   * DoSS Florence Nightingale Day (2022 Winter)
   * STA437H1S/STA2005HS - Methods for Multivariate Data (2022 Winter)
   * STA437H1F/STA2005HF - Methods for Multivariate Data (2021 Fall)
