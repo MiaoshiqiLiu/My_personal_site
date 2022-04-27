@@ -12,8 +12,7 @@ weight = 5
   interests = [
   	"Mathematical Statistics",
     "Nonparametric Estimation",
-    "Spatial Statistics",
-    "Statistical Machine learning"
+    "Nonstatioary Time Series Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,4 +36,4 @@ weight = 5
 
 # Biography
 
-Miaoshiqi LIU is a new Ph.D. student in the Department of Statistical Sciences at the University of Toronto. In 2019, she earned the bachelor's degree in Tsinghua University, Beijing, China.  Her research interests include Mathematical Statistics, Nonparametric Estimation, Spatial Statistics, and Statistical Machine learning. She also has diverse interests in multi-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science.
+Miaoshiqi LIU is a Ph.D. candidate in the Department of Statistical Sciences at the University of Toronto. In 2019, she earned a bachelor's degree in Mathematics from Tsinghua University, Beijing, China.  Her research interests include Mathematical Statistics, Nonparametric Estimation, and Nonstationary Time Series Analysis. She also has diverse interests in multi-discipline research between Statistics and other fields, such as Bioinformatics, Ecology, Finance and Social Science.
