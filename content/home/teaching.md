@@ -28,6 +28,7 @@ date_format = "January 2006"
   description = """
   
   Material Design and Lecture Delivery
+  
   * DoSS Summer Bootcamp: Probability (coming soon)
 """
 
