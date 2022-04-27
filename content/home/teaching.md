@@ -27,6 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   
+  Material Design and Lecture Delivery
   * DoSS Summer Bootcamp: Probability (coming soon)
 """
 
@@ -39,11 +40,20 @@ date_format = "January 2006"
   date_end = ""
   description = """
   
-  * DoSS Florence Nightingale Day (2021-22 Winter)
-  * STA437H1S/STA2005HS - Methods for Multivariate Data (2021-22 Winter)
-  * STA437H1F/STA2005HF - Methods for Multivariate Data (2021-22 Fall)
-  * STA302H1F/STA1001HF - Methods of Data Analysis I (2021-22 Fall)
-  * 
+  Tutorials, Office Hours and Grading
+  * DoSS Florence Nightingale Day (2022 Winter)
+  * STA437H1S/STA2005HS - Methods for Multivariate Data (2022 Winter)
+  * STA437H1F/STA2005HF - Methods for Multivariate Data (2021 Fall)
+  * STA302H1F/STA1001HF - Methods of Data Analysis I (2021 Fall)
+  * STA303H1S/STA1002HS - Methods of Data Analysis II (2021 Summer)
+  * STA304H1F/STA1003HF - Surveys, Sampling and Observational Data (2021 Summer)
+  * STA304H1S/STA1003HS - Surveys, Sampling and Observational Data (2021 Winter)
+  * STA302H1S/STA1001HS - Methods of Data Analysis I (2021 Winter)
+  * STA437H1F/STA2005HF - Methods for Multivariate Data (2020 Fall)
+  * STA237H1F - Probability, Statistics and Data Analysis I (2020 Fall)
+  * STA302H1S/STA1001HS - Methods of Data Analysis I (2020 Winter)
+  * STA457H1S/STA2202HS - Time Series Analysis (2020 Winter)
+  * STA442H1F - Methods of Applied Statistics (2019 Fall)
 """
 
 

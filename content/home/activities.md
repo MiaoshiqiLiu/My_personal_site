@@ -43,7 +43,7 @@ Taking charge of the Department of Publicity, Youth League
   date_end = ""
   description = """
  
-
+Taking part in events by Tsinghua Chorus
   * Performing in various events and concerts such as the 'New Year Concert' and 'Graduation Concert'
   *	Participating in 'University Chorus Competition in Beijing 2017', where Tsinghua Chorus won the first place
 
