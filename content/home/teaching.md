@@ -30,7 +30,6 @@ date_format = "January 2006"
   * DoSS Summer Bootcamp: Probability (coming soon)
 """
 
-
 [[experience]]
   title = "Teaching Assistant"
   company = "Department of Statistical Sciences, University of Toronto"
