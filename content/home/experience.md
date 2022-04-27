@@ -18,6 +18,37 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Project"
+  company = "Department of Statistical Sciences, University of Toronto"
+  company_url = ""
+  location = "Toronto"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """
+  Simultaneous Nonparametric Inference Under Complex Temporal Dynamics
+
+* 	A unified framework on how to conduct a large class of hypothesis testing on varying coefficient model with time-varying nonstationary covariates and error process
+*	Techniques: Bahadur Representation, Gaussian Approximation, Multiplier Bootstrap
+
+
+"""
+
+[[experience]]
+  title = "Seminar Project"
+  company = "Department of Statistical Sciences, University of Toronto"
+  company_url = ""
+  location = "Toronto"
+  date_start = "2021-01-01"
+  date_end = "2021-06-01"
+  description = """
+  On some problems of confidence region construction
+
+* Seminar work on constructing reasonable plausible regions based on relative belief inference
+
+"""
+
 [[experience]]
   title = "Undergraduate Thesis"
   company = "Department of Mathematical Sciences, Tsinghua University"
@@ -28,27 +59,10 @@ date_format = "January 2006"
   description = """
   Exploring Varying Coefficient Model for Gene-Environment Interaction
 
-  * Performed Literature Review on varying coefficient model, including the parameter estimation methods and hypothesis testing approaches
-  * Performed Literature Review on gene-environment interaction, summarizing the significance of this terminology
-  * Conducted simulation to assess different estimation methods of varying coefficient model, and compared goodness-of-fit between varying coefficient model, simple linear model and linear model with interaction 
-  * Completed thesis of varying coefficient model for gene-environment interaction
+* Literature review thesis on varying coefficient model for gene-environment interaction
 
 """
 
-[[experience]]
-  title = "Research"
-  company = "Center for Statistical Science, Tsinghua University"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2018-10-17"
-  date_end = ""
-  description = """
-  Association Between Exposure to Air Pollution and Mortality Regarding Certain Diseases in China
-
-  * Performed Literature Review on spatial-temporal data and longitudinal analysis
-  * Attended seminars to discuss environmental data from China Environmental Protection Administration 
-
-"""
 [[experience]]
   title = "Summer Research Intern"
   company = "Department of Statistics, University of Michigan"
