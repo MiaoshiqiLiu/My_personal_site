@@ -42,6 +42,9 @@ date_format = "January 2006"
   
   * DoSS Florence Nightingale Day (2021-22 Winter)
   * STA437H1S/STA2005HS - Methods for Multivariate Data (2021-22 Winter)
+  * STA437H1F/STA2005HF - Methods for Multivariate Data (2021-22 Fall)
+  * STA302H1F/STA1001HF - Methods of Data Analysis I (2021-22 Fall)
+  * 
 """
 
 

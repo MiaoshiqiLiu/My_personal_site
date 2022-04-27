@@ -43,7 +43,8 @@ date_format = "January 2006"
   date_start = "2021-01-01"
   date_end = "2021-06-01"
   description = """
-  On some problems of confidence region construction
+  
+  On Some Problems of Confidence Region Construction
 
 * Seminar work on constructing reasonable plausible regions based on relative belief inference
 
@@ -57,6 +58,7 @@ date_format = "January 2006"
   date_start = "2019-02-28"
   date_end = "2019-06-14"
   description = """
+  
   Exploring Varying Coefficient Model for Gene-Environment Interaction
 
 * Literature review thesis on varying coefficient model for gene-environment interaction
@@ -71,6 +73,7 @@ date_format = "January 2006"
   date_start = "2018-07-02"
   date_end = "2018-09-14"
   description = """
+  
   The Association Between ICU Patients’ Social Visits and Survival
 
 *	A causal-inference project investigating the association between ICU patients' social visits and survival, based on information extracted from nurses’ notes
