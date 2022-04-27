@@ -60,7 +60,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Miaoshiqi LIU"
-  role = "Ph.D. student in Statistical Sciences"
+  role = "Ph.D. candidate in Statistical Sciences"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -69,9 +69,9 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "miaoshiqiliu@gmail.com"
-  address = "5 St Joseph St. Toronto, ON M4Y 0B6"
+  address = "Downtown Toronto, Canada"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "86-130-5135-9826"
+  #phone = "86-130-5135-9826"
   #skype = "echo123"
   #telegram = ""
 

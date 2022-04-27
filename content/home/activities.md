@@ -30,25 +30,8 @@ date_format = "January 2006"
 Taking charge of the Department of Publicity, Youth League
 
   * Designing the department uniform of 2017
-  * Designing posters of festivals and events (such as MCM/ICM)
-  * Operating the WeChat Subscription of Department of Mathematical Sciences, Tsinghua University
-  * Organizing symposiums about skills of key persons' interview
-  * Cultivating new members of Department of Publicity
-
-
-"""
-[[experience]]
-  title = "Deputy Leader | Department of Organization, Youth League"
-  company = "Tsinghua University"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2017-09-02"
-  date_end = "2018-02-14"
-  description = """
-
-
-  * Participating in weekly meetings in different departments and answering their questions
-  * Reviewing work reports of different departments
+  * Designing posters for festivals and events (such as MCM/ICM)
+  * Operating the WeChat Subscription of the Department of Mathematical Sciences, Tsinghua University
 
 
   """
@@ -62,7 +45,6 @@ Taking charge of the Department of Publicity, Youth League
 
   * Performing in various events and concerts such as the 'New Year Concert' and 'Graduation Concert'
   *	Participating in 'University Chorus Competition in Beijing 2017', where Tsinghua Chorus won the first place
-  *	Taking charge of the Alto voice part and organizing regular trainings during 2016.9 - 2017.9
 
 """
 +++
