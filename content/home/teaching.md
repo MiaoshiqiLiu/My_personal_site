@@ -24,12 +24,12 @@ date_format = "January 2006"
   company_url = ""
   location = "Toronto"
   date_start = "2022-07-01"
-  date_end = ""
+  date_end = "2022-07-31"
   description = """
   
   Material Design and Lecture Delivery
   
-  * DoSS Summer Bootcamp: Probability (coming soon)
+  * DoSS Summer Bootcamp: Probability ([course website](https://jlgrons.github.io/UofT-DoSS-SPB/probability.html))
 """
 
 [[experience]]
