@@ -27,6 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
 
-Best Narrative Award in the first international [Cherry Blossom Prediction Competition](https://competition.statistics.gmu.edu/winners-2022/) 
+Best Narrative Award in the first international [Cherry Blossom Prediction Competition](https://competition.statistics.gmu.edu/winners-2022/) \
+Submission details: [Github repository](https://github.com/siyueyang/peak-bloom-prediction)
 
 +++
