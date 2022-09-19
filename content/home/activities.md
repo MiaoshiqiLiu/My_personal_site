@@ -7,7 +7,7 @@ title = "Activities"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 26
+weight = 60
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

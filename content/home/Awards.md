@@ -7,7 +7,7 @@ title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 24
+weight = 30
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
